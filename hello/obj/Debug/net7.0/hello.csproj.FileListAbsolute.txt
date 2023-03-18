@@ -1,0 +1,15 @@
+/home/andrew/RiderProjects/hello/hello/bin/Debug/net7.0/hello
+/home/andrew/RiderProjects/hello/hello/bin/Debug/net7.0/hello.deps.json
+/home/andrew/RiderProjects/hello/hello/bin/Debug/net7.0/hello.runtimeconfig.json
+/home/andrew/RiderProjects/hello/hello/bin/Debug/net7.0/hello.dll
+/home/andrew/RiderProjects/hello/hello/bin/Debug/net7.0/hello.pdb
+/home/andrew/RiderProjects/hello/hello/obj/Debug/net7.0/hello.csproj.AssemblyReference.cache
+/home/andrew/RiderProjects/hello/hello/obj/Debug/net7.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrew/RiderProjects/hello/hello/obj/Debug/net7.0/hello.AssemblyInfoInputs.cache
+/home/andrew/RiderProjects/hello/hello/obj/Debug/net7.0/hello.AssemblyInfo.cs
+/home/andrew/RiderProjects/hello/hello/obj/Debug/net7.0/hello.csproj.CoreCompileInputs.cache
+/home/andrew/RiderProjects/hello/hello/obj/Debug/net7.0/hello.dll
+/home/andrew/RiderProjects/hello/hello/obj/Debug/net7.0/refint/hello.dll
+/home/andrew/RiderProjects/hello/hello/obj/Debug/net7.0/hello.pdb
+/home/andrew/RiderProjects/hello/hello/obj/Debug/net7.0/hello.genruntimeconfig.cache
+/home/andrew/RiderProjects/hello/hello/obj/Debug/net7.0/ref/hello.dll
